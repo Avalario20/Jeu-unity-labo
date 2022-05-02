@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: c8fe680c3a9d2004e9c867510dc0d740
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5578059316624725324
+    second: MellowPlatformerTileset_0
+  - first:
+      213: -8218427725481252527
+    second: MellowPlatformerTileset_1
+  - first:
+      213: -8274596226249314096
+    second: MellowPlatformerTileset_2
+  - first:
+      213: -2000935400809068194
+    second: MellowPlatformerTileset_3
+  - first:
+      213: -8708675238819740972
+    second: MellowPlatformerTileset_4
+  - first:
+      213: -1453289561034217537
+    second: MellowPlatformerTileset_5
+  - first:
+      213: 6834431833327470362
+    second: MellowPlatformerTileset_6
+  - first:
+      213: -7692657025554596238
+    second: MellowPlatformerTileset_7
+  - first:
+      213: -446396419578122284
+    second: MellowPlatformerTileset_8
+  - first:
+      213: 3028210662670013141
+    second: MellowPlatformerTileset_9
+  - first:
+      213: -7204138250686599541
+    second: MellowPlatformerTileset_10
+  - first:
+      213: -3457959569444251254
+    second: MellowPlatformerTileset_11
+  - first:
+      213: 755703036205514467
+    second: MellowPlatformerTileset_12
+  - first:
+      213: -5292503279074627452
+    second: MellowPlatformerTileset_13
+  - first:
+      213: -6584020038385625212
+    second: MellowPlatformerTileset_14
+  - first:
+      213: 520681420623953729
+    second: MellowPlatformerTileset_15
+  - first:
+      213: 6140375326907433974
+    second: MellowPlatformerTileset_16
+  - first:
+      213: 7948869083370416775
+    second: MellowPlatformerTileset_17
+  - first:
+      213: -1416077585649040376
+    second: MellowPlatformerTileset_18
+  - first:
+      213: -8947654849633691200
+    second: MellowPlatformerTileset_19
+  - first:
+      213: -6084022219090236325
+    second: MellowPlatformerTileset_20
+  - first:
+      213: -8551595238563681961
+    second: MellowPlatformerTileset_21
+  - first:
+      213: -8523989339755519179
+    second: MellowPlatformerTileset_22
+  - first:
+      213: -45199642023041629
+    second: MellowPlatformerTileset_23
+  - first:
+      213: -4688849141308253049
+    second: MellowPlatformerTileset_24
+  - first:
+      213: 4963728813491788639
+    second: MellowPlatformerTileset_25
+  - first:
+      213: -4288828920192995100
+    second: MellowPlatformerTileset_26
+  - first:
+      213: 9040779574879869580
+    second: MellowPlatformerTileset_27
+  - first:
+      213: 7474139093529036548
+    second: MellowPlatformerTileset_28
+  - first:
+      213: -2418396893347007800
+    second: MellowPlatformerTileset_29
+  - first:
+      213: 3388179930758558955
+    second: MellowPlatformerTileset_30
+  - first:
+      213: -5958967368688895877
+    second: MellowPlatformerTileset_31
+  - first:
+      213: -2079220337134428716
+    second: MellowPlatformerTileset_32
+  - first:
+      213: 8430027909220499995
+    second: MellowPlatformerTileset_33
+  - first:
+      213: -2846658471718021346
+    second: MellowPlatformerTileset_34
+  - first:
+      213: -6768397260083857012
+    second: MellowPlatformerTileset_35
+  - first:
+      213: 2171021619483883698
+    second: MellowPlatformerTileset_36
+  - first:
+      213: 8490719013110778272
+    second: MellowPlatformerTileset_37
+  - first:
+      213: -8941389621671316971
+    second: MellowPlatformerTileset_38
+  - first:
+      213: 8586689881516440602
+    second: MellowPlatformerTileset_39
+  - first:
+      213: -8811450537132025554
+    second: MellowPlatformerTileset_40
+  - first:
+      213: 367256893827462558
+    second: MellowPlatformerTileset_41
+  - first:
+      213: 5758852227142320773
+    second: MellowPlatformerTileset_42
+  - first:
+      213: 878359966458442216
+    second: MellowPlatformerTileset_43
+  - first:
+      213: -8954864392798035617
+    second: MellowPlatformerTileset_44
+  - first:
+      213: 3646967392777696470
+    second: MellowPlatformerTileset_45
+  - first:
+      213: -4001674248090422306
+    second: MellowPlatformerTileset_46
+  - first:
+      213: -3346175013844418982
+    second: MellowPlatformerTileset_47
+  - first:
+      213: 9201953028868919501
+    second: MellowPlatformerTileset_48
+  - first:
+      213: -5780657854862095201
+    second: MellowPlatformerTileset_49
+  - first:
+      213: 312351560149720473
+    second: MellowPlatformerTileset_50
+  - first:
+      213: 2335270471247650320
+    second: MellowPlatformerTileset_51
+  - first:
+      213: -4072097036216108153
+    second: MellowPlatformerTileset_52
+  - first:
+      213: 4246498154397923424
+    second: MellowPlatformerTileset_53
+  - first:
+      213: 11780550978643513
+    second: MellowPlatformerTileset_54
+  - first:
+      213: 2299750069308324749
+    second: MellowPlatformerTileset_55
+  - first:
+      213: -3696754029380012588
+    second: MellowPlatformerTileset_56
+  - first:
+      213: 5439733931469082888
+    second: MellowPlatformerTileset_57
+  - first:
+      213: 4109021055717906327
+    second: MellowPlatformerTileset_58
+  - first:
+      213: -990766790326880455
+    second: MellowPlatformerTileset_59
+  - first:
+      213: 1481028486480176630
+    second: MellowPlatformerTileset_60
+  - first:
+      213: 1925429687293089485
+    second: MellowPlatformerTileset_61
+  - first:
+      213: 7701804719129995035
+    second: MellowPlatformerTileset_62
+  - first:
+      213: 9194793834594249037
+    second: MellowPlatformerTileset_63
+  - first:
+      213: -3197243265185993097
+    second: MellowPlatformerTileset_64
+  - first:
+      213: -8867977285328621163
+    second: MellowPlatformerTileset_65
+  - first:
+      213: 4815597564961481919
+    second: MellowPlatformerTileset_66
+  - first:
+      213: -6091464721293872697
+    second: MellowPlatformerTileset_67
+  - first:
+      213: 4169570966178088751
+    second: MellowPlatformerTileset_68
+  - first:
+      213: -2061754602178786217
+    second: MellowPlatformerTileset_69
+  - first:
+      213: 9037626337145699557
+    second: MellowPlatformerTileset_70
+  - first:
+      213: 6917724662382003241
+    second: MellowPlatformerTileset_71
+  - first:
+      213: 4330927730904521921
+    second: MellowPlatformerTileset_72
+  - first:
+      213: -6450681242209442472
+    second: MellowPlatformerTileset_73
+  - first:
+      213: -772341068111052886
+    second: MellowPlatformerTileset_74
+  - first:
+      213: -7744868635449398778
+    second: MellowPlatformerTileset_75
+  - first:
+      213: 6087831194890863172
+    second: MellowPlatformerTileset_76
+  - first:
+      213: 2264226102968194524
+    second: MellowPlatformerTileset_77
+  - first:
+      213: -3803403951891647832
+    second: MellowPlatformerTileset_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459977056f396d40800000000000000
+      internalID: 5578059316624725324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e77ad68742fd80800000000000000
+      internalID: -8218427725481252527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03f9aa29aba2d80800000000000000
+      internalID: -8274596226249314096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598548badf3b34e0800000000000000
+      internalID: -2000935400809068194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c8e5c202942780800000000000000
+      internalID: -8708675238819740972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a5c618d0e4dbe0800000000000000
+      internalID: -1453289561034217537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a170b13ca87c8de50800000000000000
+      internalID: 6834431833327470362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eb7e451313e3590800000000000000
+      internalID: -7692657025554596238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2a0e42d41ec9f0800000000000000
+      internalID: -446396419578122284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21f75bd8d560a20800000000000000
+      internalID: 3028210662670013141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e650f1e62c50c90800000000000000
+      internalID: -7204138250686599541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89dc97b71cd200d0800000000000000
+      internalID: -3457959569444251254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb6b458ebcc7a00800000000000000
+      internalID: 755703036205514467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480ba2efe404d86b0800000000000000
+      internalID: -5292503279074627452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48798f1a8acd0a4a0800000000000000
+      internalID: -6584020038385625212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fbf6d4ef4d93700800000000000000
+      internalID: 520681420623953729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f304e3a3def63550800000000000000
+      internalID: 6140375326907433974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae060015e005e60800000000000000
+      internalID: 7948869083370416775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040ff440f4195ce0800000000000000
+      internalID: -1416077585649040376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c958ca225b83d380800000000000000
+      internalID: -8947654849633691200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cea89b606319ba0800000000000000
+      internalID: -6084022219090236325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596d765071a25980800000000000000
+      internalID: -8551595238563681961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e7a68bd4b4b980800000000000000
+      internalID: -8523989339755519179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ed314a2b6f5ff0800000000000000
+      internalID: -45199642023041629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1dee6c8cddeeb0800000000000000
+      internalID: -4688849141308253049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9c819e05b2e440800000000000000
+      internalID: 4963728813491788639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0797df1d40b74c0800000000000000
+      internalID: -4288828920192995100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a525d8f1d477d70800000000000000
+      internalID: 9040779574879869580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40788a7e7e979b760800000000000000
+      internalID: 7474139093529036548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2b426b6d0207ed0800000000000000
+      internalID: -2418396893347007800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b8f712bb350f20800000000000000
+      internalID: 3388179930758558955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78772900ce7d4da0800000000000000
+      internalID: -5958967368688895877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd955b9e102523e0800000000000000
+      internalID: -2079220337134428716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1287bf18b97df470800000000000000
+      internalID: 8430027909220499995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171464c333ae78d0800000000000000
+      internalID: -2846658471718021346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8979fd6d82d112a0800000000000000
+      internalID: -6768397260083857012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b70d09a4012e10800000000000000
+      internalID: 2171021619483883698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98f18e4f715d570800000000000000
+      internalID: 8490719013110778272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bae9338dc9e380800000000000000
+      internalID: -8941389621671316971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c7a38f3fc0a2770800000000000000
+      internalID: 8586689881516440602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29125aeb6077b580800000000000000
+      internalID: -8811450537132025554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9536e9f232c81500800000000000000
+      internalID: 367256893827462558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58209c0c69d8bef40800000000000000
+      internalID: 5758852227142320773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1fda95cbf803c00800000000000000
+      internalID: 878359966458442216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51aa77974ee9b380800000000000000
+      internalID: -8954864392798035617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d472f17581ac9230800000000000000
+      internalID: 3646967392777696470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fdbf19723778c0800000000000000
+      internalID: -4001674248090422306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ef38fbd8fff81d0800000000000000
+      internalID: -3346175013844418982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0df859687e3bf70800000000000000
+      internalID: 9201953028868919501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c8fd8ee4af6cfa0800000000000000
+      internalID: -5780657854862095201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d53cbc612b55400800000000000000
+      internalID: 312351560149720473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01edc2dee1c886020800000000000000
+      internalID: 2335270471247650320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bfa6902510d77c0800000000000000
+      internalID: -4072097036216108153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687d3092979eea30800000000000000
+      internalID: 4246498154397923424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362754495ad92000800000000000000
+      internalID: 11780550978643513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7d41e08a5aef10800000000000000
+      internalID: 2299750069308324749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57fc8ebcd72bcc0800000000000000
+      internalID: -3696754029380012588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019ad19031dd7b40800000000000000
+      internalID: 5439733931469082888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7979aa031ec260930800000000000000
+      internalID: 4109021055717906327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ff4f7ad61042f0800000000000000
+      internalID: -990766790326880455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5a2e6cf8bad8410800000000000000
+      internalID: 1481028486480176630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69817691088ba10800000000000000
+      internalID: 1925429687293089485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ab2d069e42ea60800000000000000
+      internalID: 7701804719129995035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4921f5c6487a9f70800000000000000
+      internalID: 9194793834594249037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e2416a03c11a3d0800000000000000
+      internalID: -3197243265185993097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59131cfb4ad9ee480800000000000000
+      internalID: -8867977285328621163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e3c0a87074d240800000000000000
+      internalID: 4815597564961481919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c174752c15c67ba0800000000000000
+      internalID: -6091464721293872697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c3d0d3ba4dd930800000000000000
+      internalID: 4169570966178088751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4b1bec1d2363e0800000000000000
+      internalID: -2061754602178786217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb84e25491c6d70800000000000000
+      internalID: 9037626337145699557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240d33cde1b00060800000000000000
+      internalID: 6917724662382003241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd37433db8a1c30800000000000000
+      internalID: 4330927730904521921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a4de56939a76a0800000000000000
+      internalID: -6450681242209442472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7bcdf3e71845f0800000000000000
+      internalID: -772341068111052886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a69f79203b48490800000000000000
+      internalID: -7744868635449398778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442030097325c7450800000000000000
+      internalID: 6087831194890863172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5169ee4a52c6f10800000000000000
+      internalID: 2264226102968194524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MellowPlatformerTileset_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27e2ec148973bc0800000000000000
+      internalID: -3803403951891647832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MellowPlatformerTileset_54: 11780550978643513
+      MellowPlatformerTileset_60: 1481028486480176630
+      MellowPlatformerTileset_0: 5578059316624725324
+      MellowPlatformerTileset_75: -7744868635449398778
+      MellowPlatformerTileset_42: 5758852227142320773
+      MellowPlatformerTileset_48: 9201953028868919501
+      MellowPlatformerTileset_62: 7701804719129995035
+      MellowPlatformerTileset_18: -1416077585649040376
+      MellowPlatformerTileset_21: -8551595238563681961
+      MellowPlatformerTileset_28: 7474139093529036548
+      MellowPlatformerTileset_22: -8523989339755519179
+      MellowPlatformerTileset_45: 3646967392777696470
+      MellowPlatformerTileset_37: 8490719013110778272
+      MellowPlatformerTileset_51: 2335270471247650320
+      MellowPlatformerTileset_61: 1925429687293089485
+      MellowPlatformerTileset_72: 4330927730904521921
+      MellowPlatformerTileset_24: -4688849141308253049
+      MellowPlatformerTileset_7: -7692657025554596238
+      MellowPlatformerTileset_26: -4288828920192995100
+      MellowPlatformerTileset_29: -2418396893347007800
+      MellowPlatformerTileset_33: 8430027909220499995
+      MellowPlatformerTileset_69: -2061754602178786217
+      MellowPlatformerTileset_63: 9194793834594249037
+      MellowPlatformerTileset_59: -990766790326880455
+      MellowPlatformerTileset_38: -8941389621671316971
+      MellowPlatformerTileset_74: -772341068111052886
+      MellowPlatformerTileset_14: -6584020038385625212
+      MellowPlatformerTileset_31: -5958967368688895877
+      MellowPlatformerTileset_67: -6091464721293872697
+      MellowPlatformerTileset_10: -7204138250686599541
+      MellowPlatformerTileset_19: -8947654849633691200
+      MellowPlatformerTileset_49: -5780657854862095201
+      MellowPlatformerTileset_71: 6917724662382003241
+      MellowPlatformerTileset_15: 520681420623953729
+      MellowPlatformerTileset_20: -6084022219090236325
+      MellowPlatformerTileset_32: -2079220337134428716
+      MellowPlatformerTileset_73: -6450681242209442472
+      MellowPlatformerTileset_55: 2299750069308324749
+      MellowPlatformerTileset_34: -2846658471718021346
+      MellowPlatformerTileset_70: 9037626337145699557
+      MellowPlatformerTileset_39: 8586689881516440602
+      MellowPlatformerTileset_1: -8218427725481252527
+      MellowPlatformerTileset_9: 3028210662670013141
+      MellowPlatformerTileset_27: 9040779574879869580
+      MellowPlatformerTileset_25: 4963728813491788639
+      MellowPlatformerTileset_77: 2264226102968194524
+      MellowPlatformerTileset_66: 4815597564961481919
+      MellowPlatformerTileset_47: -3346175013844418982
+      MellowPlatformerTileset_8: -446396419578122284
+      MellowPlatformerTileset_41: 367256893827462558
+      MellowPlatformerTileset_78: -3803403951891647832
+      MellowPlatformerTileset_53: 4246498154397923424
+      MellowPlatformerTileset_36: 2171021619483883698
+      MellowPlatformerTileset_12: 755703036205514467
+      MellowPlatformerTileset_23: -45199642023041629
+      MellowPlatformerTileset_30: 3388179930758558955
+      MellowPlatformerTileset_56: -3696754029380012588
+      MellowPlatformerTileset_76: 6087831194890863172
+      MellowPlatformerTileset_65: -8867977285328621163
+      MellowPlatformerTileset_40: -8811450537132025554
+      MellowPlatformerTileset_50: 312351560149720473
+      MellowPlatformerTileset_57: 5439733931469082888
+      MellowPlatformerTileset_11: -3457959569444251254
+      MellowPlatformerTileset_44: -8954864392798035617
+      MellowPlatformerTileset_68: 4169570966178088751
+      MellowPlatformerTileset_3: -2000935400809068194
+      MellowPlatformerTileset_13: -5292503279074627452
+      MellowPlatformerTileset_64: -3197243265185993097
+      MellowPlatformerTileset_35: -6768397260083857012
+      MellowPlatformerTileset_2: -8274596226249314096
+      MellowPlatformerTileset_5: -1453289561034217537
+      MellowPlatformerTileset_52: -4072097036216108153
+      MellowPlatformerTileset_43: 878359966458442216
+      MellowPlatformerTileset_58: 4109021055717906327
+      MellowPlatformerTileset_46: -4001674248090422306
+      MellowPlatformerTileset_6: 6834431833327470362
+      MellowPlatformerTileset_16: 6140375326907433974
+      MellowPlatformerTileset_17: 7948869083370416775
+      MellowPlatformerTileset_4: -8708675238819740972
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
