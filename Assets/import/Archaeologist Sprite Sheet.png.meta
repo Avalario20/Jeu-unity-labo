@@ -204,7 +204,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -225,6 +225,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1212,9 +1224,9 @@ TextureImporter:
       Archaeologist Sprite Sheet_8: 2204009528225729878
       Archaeologist Sprite Sheet_6: -7614238945689653603
       Archaeologist Sprite Sheet_44: 5876541393836655888
+      Archaeologist Sprite Sheet_36: -4728935668050721846
       Archaeologist Sprite Sheet_40: -6205679336644636275
       Archaeologist Sprite Sheet_30: -6420758147091369862
-      Archaeologist Sprite Sheet_36: -4728935668050721846
       Archaeologist Sprite Sheet_33: -3793469000078103662
       Archaeologist Sprite Sheet_12: 2944477646157260464
       Archaeologist Sprite Sheet_0: -2454933284216978766
