@@ -20,28 +20,27 @@ public class PlayerMouvement : MonoBehaviour
     public SpriteRenderer spriteRenderer;
 
     private Vector3 velocity = Vector3.zero;
-    
-    void Start()
+    private float horizontalmovement;
+
+
+    void Update()
     {
-        
+        if (Input.GetButtonDown("Jump") && isGrounded) //si on appuis sur espace et que le perso touche le sol alors..
+        {
+            isJumping = true;
+        }
+        float CharacterVelocity = Mathf.Abs(rb.velocity.x); //renvoyer une valeur positive pour le déplacement même à gauche (calcule la valeur absolu)
+        animator.SetFloat("Speed", CharacterVelocity);
     }
 
     void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapArea(groundCheckLeft.position, groundCheckRight.position); //on crée la zone sur la quelle on detectera qu'il touchera le sol
-        float horizontalmovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime; //tant qu'on appuis sur les fleches directionnel
+        horizontalmovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime; //tant qu'on appuis sur les fleches directionnel
 
-        if (Input.GetButtonDown("Jump")&& isGrounded) //si on appuis sur espace et que le perso touche le sol alors..
-        {
-            isJumping = true;
-        }
         //on déplace le joueur
         MovePlayer(horizontalmovement);
 
-        
-
-        float CharacterVelocity = Mathf.Abs(rb.velocity.x); //renvoyer une valeur positive pour le déplacement même à gauche (calcule la valeur absolu)
-        animator.SetFloat("Speed", CharacterVelocity);
     }
     void MovePlayer(float _horizontalmovement)
     {
