@@ -9,6 +9,7 @@ public class PlayerMouvement : MonoBehaviour
 
     private bool isJumping;
     private bool isGrounded;
+    private bool m_FacingRight = true;
 
     public Transform groundCheckLeft;
     public Transform groundCheckRight;
@@ -37,7 +38,7 @@ public class PlayerMouvement : MonoBehaviour
         //on déplace le joueur
         MovePlayer(horizontalmovement);
 
-        Flip(rb.velocity.x);
+        
 
         float CharacterVelocity = Mathf.Abs(rb.velocity.x); //renvoyer une valeur positive pour le déplacement même à gauche (calcule la valeur absolu)
         animator.SetFloat("Speed", CharacterVelocity);
@@ -52,15 +53,25 @@ public class PlayerMouvement : MonoBehaviour
             rb.AddForce(new Vector2(0f, jumpForce)); //on le fait sauter
             isJumping = false; //on indique qu'il ne saute plus
         }
-    }
-    void Flip(float _velocity)
-    {
-        if (_velocity > 0.1f)
+        // Si le jouer va a droite mais qu'il ne regarde pas vers la droite...
+        if (_horizontalmovement > 0 && !m_FacingRight)
         {
-            spriteRenderer.flipX = false;
-        }else if (_velocity < -0.1f)
-        {
-            spriteRenderer.flipX = true;
+            // ...flipper le jouer
+            Flip();
         }
+        // ou Si le jouer va a gauche mais qu'il regarde vers la droite...
+        else if (_horizontalmovement < 0 && m_FacingRight)
+        {
+            // ...flipper le jouer
+            Flip();
+        }
+
+    }
+    private void Flip()
+    {
+        // Changer le sens du joueur
+        m_FacingRight = !m_FacingRight;
+
+        transform.Rotate(0f, 180f, 0f);
     }
 }
