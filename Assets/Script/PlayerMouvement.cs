@@ -19,10 +19,22 @@ public class PlayerMouvement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
     public SpriteRenderer spriteRenderer;
+    public CapsuleCollider2D playerCollider;
 
     private Vector3 velocity = Vector3.zero;
     private float horizontalmovement;
 
+    public static PlayerMouvement instance;
+
+    private void Awake()
+    {
+        if (instance != null)
+        {
+            Debug.LogWarning("Il y a plus d'une instance de PlayerMouvement dans la scène");
+            return;
+        }
+        instance = this;
+    }
     void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position,groundCheckRadius,collisitonLayers); //on crée la zone sur la quelle on detectera qu'il touchera le sol
@@ -78,5 +90,9 @@ public class PlayerMouvement : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+    }
+    public bool canAttack()
+    {
+        return horizontalmovement == 0 && isGrounded;
     }
 }
