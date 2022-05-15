@@ -11,8 +11,9 @@ public class PlayerMouvement : MonoBehaviour
     private bool isGrounded;
     private bool m_FacingRight = true;
 
-    public Transform groundCheckLeft;
-    public Transform groundCheckRight;
+    public Transform groundCheck;
+    public float groundCheckRadius;
+    public LayerMask collisitonLayers;
 
 
     public Rigidbody2D rb;
@@ -24,7 +25,7 @@ public class PlayerMouvement : MonoBehaviour
 
     void FixedUpdate()
     {
-        isGrounded = Physics2D.OverlapArea(groundCheckLeft.position, groundCheckRight.position); //on crée la zone sur la quelle on detectera qu'il touchera le sol
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position,groundCheckRadius,collisitonLayers); //on crée la zone sur la quelle on detectera qu'il touchera le sol
         horizontalmovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime; //tant qu'on appuis sur les fleches directionnel
 
         //on déplace le joueur
@@ -71,5 +72,11 @@ public class PlayerMouvement : MonoBehaviour
         m_FacingRight = !m_FacingRight;
 
         transform.Rotate(0f, 180f, 0f);
+    }
+    //on affiche la zone de detection du sol
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }
