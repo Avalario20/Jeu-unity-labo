@@ -8,7 +8,6 @@ public class Weapon : MonoBehaviour
 	public GameObject bulletPrefab;
 
 	[SerializeField] private float attackCooldown;
-	private PlayerMouvement playerMovement;
 	private float cooldownTimer = Mathf.Infinity;
 
 	void Update()
